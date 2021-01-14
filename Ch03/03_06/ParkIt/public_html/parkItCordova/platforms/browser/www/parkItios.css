@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 31, 2017, 9:55:10 AM
+    Author     : thomasduffy
+*/
+body{
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    background-color: white;
+}
+#navbar{
+    background-color: white;
+    color: black;
+}
+button{
+    border: none;
+    background-color: white;
+    color: #0080ff;
+}
+#instructions, #map, #directions{
+    border-radius: 10px;
+    background-color: white;
+    border: 1px #dddddd solid;
+}
+#gotIt{
+    background-color: #0080ff;
+    color: white;
+    border-radius: 5px;
+}
